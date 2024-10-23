@@ -1,4 +1,7 @@
-# 2024-10-24-networkFirst.md
+---
+layout: single
+title: "네트워크 기본 구조"
+---
 
 ### 컴퓨터 **네트워크(**Computer **Network)란?**
 
